@@ -1,14 +1,755 @@
 [
     {
-      "id": 1,
-      "question": "Jaki jest największy kontynent?",
-      "answers": ["Afryka", "Azja", "Europa", "Australia"],
-      "correctAnswer": "Azja"
+      "question": "Wskaż osobę, która posiada zdolność prawną:",
+      "answers": [
+        "osoba fizyczna, ale wyłącznie pełnoletnia",
+        "dowolna osoba fizyczna",
+        "spółka cywilna",
+        "urząd gminy"
+      ],
+      "correctAnswer": "dowolna osoba fizyczna"
     },
     {
-      "id": 2,
-      "question": "Ile to jest 5 × 6?",
-      "answers": ["11", "30", "56"],
-      "correctAnswer": "30"
-    }
+      "question": "Wskaż osobę prawną:",
+      "answers": [
+        "szkoła podstawowa",
+        "spółka cywilna",
+        "spółka partnerska",
+        "spółka akcyjna"
+      ],
+      "correctAnswer": "spółka akcyjna"
+    },
+    {
+      "question": "W skład majątku osobistego małżonka wchodzą:",
+      "answers": [
+        "wynagrodzenie przysługujące z tytułu zlecenia",
+        "pożytki z majątku osobistego",
+        "nieruchomości pochodzące ze spadkobrania",
+        "wynagrodzenie za pracę"
+      ],
+      "correctAnswer": "nieruchomości pochodzące ze spadkobrania"
+    },
+    {
+      "question": "W pierwszej grupie spadkobierców ustawowych znajdują się:",
+      "answers": [
+        "zstępni",
+        "rodzeństwo",
+        "małżonek dziecka",
+        "wstępni"
+      ],
+      "correctAnswer": "zstępni"
+    },
+    {
+      "question": "Z zasady roszczenia majątkowe przedawniają się z upływem lat:",
+      "answers": [
+        "3",
+        "5",
+        "6",
+        "10"
+      ],
+      "correctAnswer": "6"
+    },
+    {
+      "question": "Jednostronną czynnością prawną jest:",
+      "answers": [
+        "darowizna",
+        "umowa ramowa",
+        "aukcja",
+        "testament"
+      ],
+      "correctAnswer": "testament"
+    },
+    {
+      "question": "Odpowiedzialność za wyrządzone szkody oparta jest o zasadę:",
+      "answers": [
+        "ryzyka",
+        "słuszności",
+        "winy",
+        "winy w nadzorze"
+      ],
+      "correctAnswer": "winy"
+    },
+    {
+      "question": "Zobowiązanie wygasa z chwilą np.:",
+      "answers": [
+        "przedawnienia",
+        "potrącenia",
+        "zawarcia ugody",
+        "śmierci dłużnika w każdym przypadku"
+      ],
+      "correctAnswer": "potrącenia"
+    },
+    {
+        "question": "Wg założeń koncepcyjnych MSR/MSSF głównym celem sprawozdania finansowego jest:",
+        "answers": [
+          "dostarczanie informacji finansowej, która jest zgodna z wymogami prawa podatkowego",
+          "sporządzenie takiego sprawozdania finansowego, w odniesieniu do którego biegły rewident nie wniesie żadnych uwag",
+          "dostarczenie informacji finansowej na temat jednostki, które są użyteczne dla obecnych i potencjalnych inwestorów",
+          "dostarczenie informacji finansowej na temat jednostki, które są użyteczne dla zarządu"
+        ],
+        "correctAnswer": "dostarczenie informacji finansowej na temat jednostki, które są użyteczne dla obecnych i potencjalnych inwestorów"
+      },
+      {
+        "question": "Wg założeń koncepcyjnych MSR/MSSF decyzje inwestorów na temat zakupu, sprzedaży oraz utrzymywania instrumentów (np. akcje/obligacje) emitowanych przez podmiot zależą od:",
+        "answers": [
+          "stopy zwrotu, jaką dotychczas inwestorzy osiągnęli z inwestycji w akcje/obligacje jednostki",
+          "stopy zwrotu, jaką inwestorzy oczekują w przyszłości z inwestycji w akcje/obligacje jednostki",
+          "jakości sprawozdań finansowych",
+          "stopnia szczegółowości oraz obszerności sprawozdania finansowego (np. mierzonej za pomocą ilości stron)"
+        ],
+        "correctAnswer": "stopy zwrotu, jaką inwestorzy oczekują w przyszłości z inwestycji w akcje/obligacje jednostki"
+      },
+      {
+        "question": "Zasada kontynuacji działania oznacza, że jednostka:",
+        "answers": [
+          "będzie kontynuowała swoją działalność w niezmienionym zakresie, utrzymując na tym samym lub zbliżonym poziomie swoją płynność i rentowność w dającej się przewidzieć przyszłości",
+          "nie zamierza ani nie musi zaniechać działalności gospodarczej lub istotnie ograniczyć jej zakresu w dającej się przewidzieć przyszłości",
+          "będzie w niezmienionym zakresie kontynuować i stosować przyjętą politykę rachunkowości",
+          "żadna z pozostałych nie jest prawidłowa"
+        ],
+        "correctAnswer": "nie zamierza ani nie musi zaniechać działalności gospodarczej lub istotnie ograniczyć jej zakresu w dającej się przewidzieć przyszłości"
+      },
+      {
+        "question": "Regulacje rachunkowości MSR/MSSF są stosowane:",
+        "answers": [
+          "prawie we wszystkich krajach na świecie, a ich stosowanie przez krajowe spółki jest wymagane m.in. w Niemczech, Francji, Wielkiej Brytanii i Stanach Zjednoczonych",
+          "w grupie około 30 krajów, głównie członków UE oraz dodatkowo Norwegia i Szwajcaria",
+          "w około 160 krajach na świecie w różnym zakresie, z tym, że np. w Stanach Zjednoczonych jest dopuszczone stosowanie MSR/MSSF tylko dla zagranicznych spółek",
+          "ylko w krajach zrzeszonych w OECD"
+        ],
+        "correctAnswer": "w około 160 krajach na świecie w różnym zakresie, z tym, że np. w Stanach Zjednoczonych jest dopuszczone stosowanie MSR/MSSF tylko dla zagranicznych spółek"
+      },
+      {
+        "question": "Wg założeń koncepcyjnych „zasób kontrolowany przez jednostkę w wyniku zdarzeń z przeszłości, z którego, wg przewidywań, jednostka osiągnie w przyszłości korzyści ekonomiczne” to:",
+        "answers": [
+          "aktywa",
+          "zobowiązania",
+          "kapitał własny",
+          "dochody"
+        ],
+        "correctAnswer": "aktywa"
+      },
+      {
+        "question": "Wg założeń koncepcyjnych podstawowe cechy jakościowe sprawozdań finansowych to:",
+        "answers": [
+          "neutralność i porównywalność",
+          "istotność i kompletność",
+          "przydatność i terminowość",
+          "wierne odzwierciedlenie i przydatność"
+        ],
+        "correctAnswer": "wierne odzwierciedlenie i przydatność"
+      },
+      {
+        "question": "Zasada przewagi treści ekonomicznej nad formą prawną:",
+        "answers": [
+          "nakazuje, aby rachunkowość odzwierciedlała zdarzenia i transakcje gospodarcze zgodnie z ich prawdziwą treścią ekonomiczną",
+          "wymaga od księgowych dokonywania profesjonalnych osądów i oszacowań księgowych, jak również krytycznego myślenia i zdrowego rozsądku",
+          "w szczególnych przypadkach jej zastosowanie może oznaczać, że transakcja gospodarcza zostanie ujęta inaczej, niż to wynika z formy prawnej transakcji",
+          "wszystkie pozostałe są prawdziwe"
+        ],
+        "correctAnswer": "wszystkie pozostałe są prawdziwe"
+      },
+      {
+        "question": "Zgodnie z założeniami koncepcyjnymi sprawozdawczości finansowej, aby dany zasób ekonomiczny mógł być uznany za składnik aktywów, to musi:",
+        "answers": [
+          "istnieć prawdopodobieństwo, że korzyści ekonomiczne związane z tym zasobem wpłyną w przyszłości do jednostki",
+          "być kontrolowany przez jednostkę w wyniku zdarzeń z przeszłości",
+          "posiadać koszt lub cenę nabycia lub inną wartość, którą można ustalić w sposób wiarygodny",
+          "wszystkie pozostałe są prawdziwe"
+        ],
+        "correctAnswer": "wszystkie pozostałe są prawdziwe"
+      },
+      {
+        "question": "Zgodnie z założeniami koncepcyjnymi sprawozdawczości finansowej, koncepcja zachowania kapitału, która określa kapitał jako zdolności operacyjne jednostki, to zasada zachowania kapitału:",
+        "answers": [
+          "finansowego",
+          "nominalnego",
+          "rzeczowego",
+          "operacyjnego"
+        ],
+        "correctAnswer": "rzeczowego"
+      },
+      {
+        "question": "Znacznie wyższa wartość rynkowa spółki giełdowej (kapitalizacja rynkowa) w porównaniu do jej wartości księgowej może wynikać m.in. z faktu, że:",
+        "answers": [
+          "rachunkowość finansowa zezwala na ujmowanie tylko tych aktywów (tzw. kryteria ujmowania), których wartość można wiarygodnie określić (co nie jest możliwe np. w przypadku ludzi)",
+          "rachunkowość finansowa częściowo bazuje na wartościach historycznych, które często są niższe od bieżących cen rynkowych",
+          "rachunkowość finansowa nie uwzględnia możliwości rozwojowych (tzw. growth opportunities) spółek, zwłaszcza tych reprezentujących nowe technologie",
+          "wszystkie pozostałe odpowiedzi są prawdziwe"
+        ],
+        "correctAnswer": "wszystkie pozostałe odpowiedzi są prawdziwe"
+      },
+      {
+        "question": "Założenia koncepcyjne sprawozdawczości finansowej to:",
+        "answers": [
+          "fundament Międzynarodowych Standardów Sprawozdawczości Finansowej określający i definiujący najważniejsze elementy sprawozdawczości finansowej takie jak m.in. cele, podstawowe założenia, cechy jakościowe itd.",
+          "jest również określany jako konstytucja sprawozdawczości finansowej",
+          "w przypadku braku odpowiednich regulacji / standardów, jednostka powinna się do niego odnieść przy formułowaniu polityki rachunkowości (np. przy rozstrzyganiu dylematu czy w firmie zajmującej się ekoturystyką można rozpoznać słonia jako składnik aktywów)",
+          "wszystkie pozostałe odpowiedzi są prawdziwe"
+        ],
+        "correctAnswer": "wszystkie pozostałe odpowiedzi są prawdziwe"
+      },
+      {
+        "question": "Jaka słynna afera księgowa doprowadziła do upadku jednej największych firm audytorskich Arthur Andersen, zaliczanej do tzw. BIG-5, oraz przyczyniła się wprowadzenia regulacji SOX w Stanach Zjednoczonych:",
+        "answers": [
+          "afera dotycząca korupcji w spółce Petrobras",
+          "afera dotycząca oszustw księgowych w spółce Enron",
+          "afera dotycząca wycieku ropy w Zatoce Meksykańskiej, za co odpowiedzialna była spółka BP i która próbowała tuszować księgowe skutki tego wypadku",
+          "nie było żadnej afery, firma Arthur Andersen upadła na skutek ostrej konkurencji panującej w sektorze usług audytowych"
+        ],
+        "correctAnswer": "afera dotycząca oszustw księgowych w spółce Enron"
+      },
+      {
+        "question": "Które zdarzenia można uznać za koszty:",
+        "answers": [
+          "spłata kredytu bankowego",
+          "uregulowanie zobowiązania z tytułu podatku dochodowego",
+          "wydano z magazynu materiały do produkcji"
+        ],
+        "correctAnswer": "wydano z magazynu materiały do produkcji"
+      },
+      {
+        "question": "Które z wymienionych zdarzeń to wydatki:",
+        "answers": [
+          "zakup krótkoterminowych papierów wartościowych",
+          "odpisy amortyzacyjne środków trwałych",
+          "nieodpłatne przekazanie komputera"
+        ],
+        "correctAnswer": "zakup krótkoterminowych papierów wartościowych"
+      },
+      {
+        "question": "Które z poniższych cech jest właściwe dla straty:",
+        "answers": [
+          "celowe zużycie zasobów majątkowych",
+          "występują systematycznie i mają charakter powtarzalny",
+          "zmniejszenie zasobów majątkowych na skutek zdarzeń losowych"
+        ],
+        "correctAnswer": "zmniejszenie zasobów majątkowych na skutek zdarzeń losowych"
+      },
+      {
+        "question": "Kosztami zwykłej działalności operacyjnej są:",
+        "answers": [
+          "koszty wg rodzajów",
+          "koszty finansowe",
+          "pozostałe koszty operacyjne"
+        ],
+        "correctAnswer": "koszty wg rodzajów"
+      },
+      {
+        "question": "Dla pojęcia kosztu istotne jest:",
+        "answers": [
+          "ilościowe (w jednostkach naturalnych) ujęcie zużycia zasobów majątkowych",
+          "zależności od przepływów środków pieniężnych",
+          "wystąpienie efektu"
+        ],
+        "correctAnswer": "wystąpienie efektu"
+      },
+      {
+        "question": "Grupowanie kosztów wg nośników ich powstawania to układ:",
+        "answers": [
+          "rodzajowy",
+          "podmiotowy",
+          "przedmiotowy"
+        ],
+        "correctAnswer": "przedmiotowy"
+      },
+      {
+        "question": "Do MPK zalicza się:",
+        "answers": [
+          "Koszty bezpośrednie",
+          "Koszty działalności pomocniczej",
+          "Koszty wytworzenia produktów"
+        ],
+        "correctAnswer": "Koszty działalności pomocniczej"
+      },
+      {
+        "question": "W układzie przedmiotowym wydziela się:",
+        "answers": [
+          "koszty wydziałów podstawowych",
+          "koszty wydziałów pomocniczych",
+          "koszty poszczególnych grup produktów"
+        ],
+        "correctAnswer": "koszty poszczególnych grup produktów"
+      },
+      {
+        "question": "Czynne rozliczenia międzyokresowe kosztów to:",
+        "answers": [
+          "amortyzacja środków transportu",
+          "utworzona rezerwa na przyszłe remonty",
+          "zapłacony za rok z góry czynsz za dzierżawę pomieszczeń biurowych"
+        ],
+        "correctAnswer": "zapłacony za rok z góry czynsz za dzierżawę pomieszczeń biurowych"
+      },
+      {
+        "question": "Bierne rozliczenia międzyokresowe kosztów to:",
+        "answers": [
+          "amortyzacja środków transportu",
+          "utworzona rezerwa na przyszłe remonty",
+          "zapłacony za rok z góry czynsz za dzierżawę pomieszczeń biurowych"
+        ],
+        "correctAnswer": "utworzona rezerwa na przyszłe remonty"
+      },
+      {
+        "question": "Czynne rozliczenia międzyokresowe kosztów ujmuje się w bilansie po stronie:",
+        "answers": [
+          "aktywów",
+          "pasywów",
+          "nie występuje w bilansie"
+        ],
+        "correctAnswer": "aktywów"
+      },
+      {
+        "question": "Bierne rozliczenia międzyokresowe kosztów ujmuje się w bilansie po stronie:",
+        "answers": [
+          "Aktywów",
+          "Pasywów",
+          "nie występuje w bilansie"
+        ],
+        "correctAnswer": "Pasywów"
+      },
+      {
+        "question": "Do aktywów obrotowych w bilansie zalicza się m.in.:",
+        "answers": [
+          "produkty gotowe, produkcja w toku, kasa, należności i zobowiązania handlowe",
+          "towary, środki transportu, środki pieniężne w banku oraz RMK bierne",
+          "półprodukty, obligacje o terminie wymagalności do 3 miesięcy oraz RMK czynne"
+        ],
+        "correctAnswer": "półprodukty, obligacje o terminie wymagalności do 3 miesięcy oraz RMK czynne"
+      },
+      {
+        "question": "Zysk netto w bilansie jest elementem:",
+        "answers": [
+          "aktywów trwałych",
+          "aktywów obrotowych",
+          "kapitałów własnych"
+        ],
+        "correctAnswer": "kapitałów własnych"
+      },
+      {
+        "question": "Składnik aktywów można rozpoznać w bilansie:",
+        "answers": [
+          "Kiedy będzie generować przyszłe korzyści ekonomiczne",
+          "Kiedy można wiarygodnie oszacować jego wartość"
+        ],
+        "correctAnswer": "Kiedy będzie generować przyszłe korzyści ekonomiczne oraz można wiarygodnie wycenić jego wartość"
+      },
+      {
+        "question": "Które z poniższych jest sprawozdaniem statycznym (na dany moment):",
+        "answers": [
+          "Rachunek zysków i strat",
+          "Rachunek przepływów pieniężnych",
+          "Bilans"
+        ],
+        "correctAnswer": "Bilans"
+      },
+      {
+        "question": "Które z poniższych zdań jest przykładem ekonomii normatywnej",
+        "answers": [
+          "Wzrost minimalnego wynagrodzenia o 10% prowadzi do spadku zatrudnienia o 1%.",
+          "Rząd powinien wprowadzić podatek od cukru, aby poprawić zdrowie publiczne.",
+          "Inflacja w zeszłym miesiącu wyniosła 2,5%.",
+          "Spadek stóp procentowych zwiększa inwestycje przedsiębiorstw."
+        ],
+        "correctAnswer": "Rząd powinien wprowadzić podatek od cukru, aby poprawić zdrowie publiczne."
+      },
+      {
+        "question": "Karol ma do wyboru pójście do kina (bilet kosztuje 30 zł) lub do kawiarni, gdzie kawa kosztuje 15 zł. Jeśli Karol zdecyduje się pójść do kina, to jego kosztem alternatywnym jest:",
+        "answers": [
+          "30 zł wydane na bilet do kina.",
+          "15 zł wydane na kawę.",
+          "Wartość przyjemności z wypicia kawy i zaoszczędzone 15 zł.",
+          "Całkowity koszt obu opcji (45 zł)."
+        ],
+        "correctAnswer": "Wartość przyjemności z wypicia kawy i zaoszczędzone 15 zł."
+      },
+      {
+        "question": "Wprowadzenie wysokich podatków progresywnych w celu znacznej redystrybucji dochodów najprawdopodobniej:",
+        "answers": [
+          "Zwiększy zarówno efektywność, jak i sprawiedliwość społeczną",
+          "Zmniejszy efektywność gospodarczą, ale zwiększy sprawiedliwość społeczną.",
+          "Zwiększy efektywność gospodarczą, ale zmniejszy sprawiedliwość społeczną.",
+          "Zmniejszy zarówno efektywność, jak i sprawiedliwość społeczną."
+        ],
+        "correctAnswer": "Zmniejszy efektywność gospodarczą, ale zwiększy sprawiedliwość społeczną."
+      },
+      {
+        "question": "Które z działań państwa jest przykładem realizacji funkcji alokacyjnej?",
+        "answers": [
+          "Wypłacanie zasiłków dla bezrobotnych.",
+          "Budowa autostrady finansowanej z budżetu państwa.",
+          "Podnoszenie stóp procentowych w celu walki z inflacją.",
+          "Ustalanie płacy minimalnej."
+        ],
+        "correctAnswer": "Budowa autostrady finansowanej z budżetu państwa."
+      },
+      {
+        "question": "Większość współczesnych rozwiniętych gospodarek to:",
+        "answers": [
+          "Gospodarki centralnie planowane.",
+          "Czyste gospodarki rynkowe.",
+          "Gospodarki mieszane.",
+          "Gospodarki feudalne."
+        ],
+        "correctAnswer": "Gospodarki mieszane."
+      },
+      {
+        "question": "Podstawowym celem działalności gospodarczej przedsiębiorstwa w warunkach gospodarki rynkowej jest najczęściej:",
+        "answers": [
+          "Zapewnienie miejsc pracy dla jak największej liczby osób.",
+          "Maksymalizacja zysku.",
+          "Minimalizacja negatywnego wpływu na środowisko naturalne.",
+          "Zaspokojenie wszystkich potrzeb konsumentów."
+        ],
+        "correctAnswer": "Maksymalizacja zysku."
+      },
+      {
+        "question": "Problem ekonomiczny (problem rzadkości) wynika z faktu, że:",
+        "answers": [
+          "Rząd nie jest w stanie efektywnie planować produkcji.",
+          "Ludzie mają nieograniczone potrzeby, ale zasoby do ich zaspokojenia są ograniczone.",
+          "Występują monopole, które ograniczają konkurencję.",
+          "Koszty produkcji stale rosną w czasie."
+        ],
+        "correctAnswer": "Ludzie mają nieograniczone potrzeby, ale zasoby do ich zaspokojenia są ograniczone."
+      },
+      {
+        "question": "Przedsiębiorstwo podejmujące racjonalną decyzję o zwiększeniu produkcji o dodatkową jednostkę porównuje:",
+        "answers": [
+          "Koszt krańcowy z kosztem alternatywnym.",
+          "Koszt całkowity z przychodem całkowitym.",
+          "Koszt krańcowy z przychodem krańcowym.",
+          "Koszt zmienny z kosztem stałym."
+        ],
+        "correctAnswer": "Koszt krańcowy z przychodem krańcowym."
+      },
+      {
+        "question": "Przykładem negatywnej zachęty ekonomicznej, mającej na celu ograniczenie danego działania, jest:",
+        "answers": [
+          "Subsydium dla rolników.",
+          "Ulga podatkowa na zakup materiałów budowlanych",
+          "Podatek akcyzowy na wyroby tytoniowe.",
+          "Wprowadzenie bonu turystycznego."
+        ],
+        "correctAnswer": "Podatek akcyzowy na wyroby tytoniowe."
+      },
+      {
+        "question": "Procesy globalizacji wpływają na państwa narodowe, często prowadząc do:",
+        "answers": [
+          "Pełnego wycofania się państwa z gospodarki.",
+          "Wzrostu suwerenności państwa w kształtowaniu polityki gospodarczej.",
+          "Konieczności dostosowywania krajowych regulacji do międzynarodowych standardów i konkurencji.",
+          "Eliminacji gospodarek mieszanych na rzecz czystych rynków."
+        ],
+        "correctAnswer": "Konieczności dostosowywania krajowych regulacji do międzynarodowych standardów i konkurencji."
+      },
+      {
+        "question": "Które z poniższych stwierdzeń jest przykładem ekonomii normatywnej?",
+        "answers": [
+          "Wzrost podatku VAT o 1% spowodował spadek konsumpcji o 0,5%.",
+          "Stopa bezrobocia w Polsce wynosi 5,1%.",
+          "Rząd powinien podnieść płacę minimalną, aby zmniejszyć nierówności społeczne",
+          "Wraz ze wzrostem dochodu rośnie popyt na dobra luksusowe"
+        ],
+        "correctAnswer": "Rząd powinien podnieść płacę minimalną, aby zmniejszyć nierówności społeczne"
+      },
+      {
+        "question": "Podstawowy problem ekonomiczny wynika z:",
+        "answers": [
+          "Nieskończoności zasobów naturalnych",
+          "Ograniczoności potrzeb ludzkich.",
+          "Rzadkości zasobów w stosunku do nieograniczonych potrzeb.",
+          "Braku interwencji państwa w gospodarkę."
+        ],
+        "correctAnswer": "Rzadkości zasobów w stosunku do nieograniczonych potrzeb."
+      },
+      {
+        "question": "Koszt alternatywny zakupu nowej książki za 50 zł, jeśli jedyną inną możliwością było kupienie dwóch biletów do kina za tę samą kwotę, to:",
+        "answers": [
+          "50 zł wydane na książkę.",
+          "Wartość rozrywki wynikająca z obejrzenia dwóch filmów w kinie",
+          "Czas spędzony na czytaniu książki.",
+          "Wartość posiadania nowej książki."
+        ],
+        "correctAnswer": "Wartość rozrywki wynikająca z obejrzenia dwóch filmów w kinie"
+      },
+      {
+        "question": "Dodatkowy koszt związany z wyprodukowaniem lub zakupem kolejnej, jednej jednostki produktu to:",
+        "answers": [
+          "Koszt alternatywny.",
+          "Koszt stały.",
+          "Koszt przeciętny.",
+          "Koszt krańcowy."
+        ],
+        "correctAnswer": "Koszt krańcowy."
+      },
+      {
+        "question": "Które z poniższych zdań najlepiej opisuje współczesne systemy gospodarcze?",
+        "answers": [
+          "Państwo kontroluje wszystkie decyzje produkcyjne (gospodarka planowa).",
+          "Decyzje podejmują wyłącznie konsumenci i prywatne przedsiębiorstwa (czysty rynek).",
+          "Łączą one elementy gospodarki rynkowej i interwencjonizmu państwowego (gospodarka mieszana).",
+          "Całkowicie wyeliminowano problem rzadkości zasobów."
+        ],
+        "correctAnswer": "Łączą one elementy gospodarki rynkowej i interwencjonizmu państwowego (gospodarka mieszana)."
+      },
+      {
+        "question": "Dążenie do efektywności ekonomicznej często wchodzi w konflikt z dążeniem do:",
+        "answers": [
+          "Maksymalizacji zysku.",
+          "Ograniczoności zasobów.",
+          "Sprawiedliwości i równości społecznej.",
+          "Rozwoju technologicznego."
+        ],
+        "correctAnswer": "Sprawiedliwości i równości społecznej."
+      },
+      {
+        "question": "Jak globalizacja wpływa na rolę państwa narodowego w gospodarce?",
+        "answers": [
+          "Zwiększa zdolność państwa do pełnej kontroli nad krajowymi rynkami.",
+          "Osłabia rolę państwa poprzez ułatwienie przepływu kapitału i działalności międzynarodowych korporacji.",
+          "Nie ma żadnego wpływu na suwerenność gospodarczą państw.",
+          "Skłania państwa do całkowitego wycofania się z funkcji regulacyjnych."
+        ],
+        "correctAnswer": "Osłabia rolę państwa poprzez ułatwienie przepływu kapitału i działalności międzynarodowych korporacji."
+      },
+      {
+        "question": "Co jest głównym motorem napędowym podejmowania decyzji w czystej gospodarce rynkowej?",
+        "answers": [
+          "Decyzje centralnego planisty.",
+          "Maksymalizacja zysku i zaspokajanie popytu konsumentów.",
+          "Dążenie do pełnej równości społecznej.",
+          "Wycofanie państwa z jakiejkolwiek roli regulacyjnej."
+        ],
+        "correctAnswer": "Maksymalizacja zysku i zaspokajanie popytu konsumentów."
+      },
+      {
+        "question": "Które z poniższych stwierdzeń najlepiej charakteryzuje „zachęty” w ekonomii?",
+        "answers": [
+          "Są to wyłącznie kary finansowe nakładane przez państwo.",
+          "Są to czynniki, które motywują ludzi do zmiany zachowań (np. Niższe podatki, wyższe ceny).",
+          "Są to wyłącznie niematerialne nagrody.",
+          "Są to zbiory praw regulujących system gospodarczy."
+        ],
+        "correctAnswer": "Są to czynniki, które motywują ludzi do zmiany zachowań (np. Niższe podatki, wyższe ceny)."
+      },
+      {
+        "question": "Zasada „coś za coś” (ang. Trade-off) jest najbardziej ściśle związana z koncepcją:",
+        "answers": [
+          "Sprawiedliwości społecznej.",
+          "Kosztu krańcowego.",
+          "Kosztu alternatywnego.",
+          "Efektywności ekonomicznej."
+        ],
+        "correctAnswer": "Kosztu alternatywnego."
+      },
+      {
+        "question": "Jedną z kluczowych ról państwa w gospodarce mieszanej jest:",
+        "answers": [
+          "Całkowite przejęcie własności środków produkcji.",
+          "Tworzenie i egzekwowanie ram prawnych (np. Ochrona własności prywatnej, umów).",
+          "Ustalanie cen wszystkich produktów i usług na rynku.",
+          "Blokowanie międzynarodowego handlu w kontekście globalizacji."
+        ],
+        "correctAnswer": "Tworzenie i egzekwowanie ram prawnych (np. Ochrona własności prywatnej, umów)."
+      },
+      {
+        "question": "Czym różni się gospodarka mieszana od czystej gospodarki rynkowej?",
+        "answers": [
+          "Gospodarka mieszana nie uznaje własności prywatnej.",
+          "W gospodarce mieszanej państwo w ogóle nie interweniuje.",
+          "Gospodarka mieszana pozwala na pewien stopień interwencji państwa w celu korekty niedoskonałości rynku.",
+          "Gospodarka mieszana opiera się wyłącznie na centralnym planowaniu."
+        ],
+        "correctAnswer": "Gospodarka mieszana pozwala na pewien stopień interwencji państwa w celu korekty niedoskonałości rynku."
+      },
+      {
+        "question": "Które stwierdzenie opisuje efektywność w sensie ekonomicznym?",
+        "answers": [
+          "Wszyscy obywatele mają równe dochody",
+          "Zasoby są wykorzystywane w taki sposób, że nie da się poprawić sytuacji jednej osoby bez pogorszenia sytuacji innej (efektywność Pareto).",
+          "Państwo zapewnia wysoki poziom sprawiedliwości społecznej.",
+          "Całkowite wycofanie państwa z gospodarki."
+        ],
+        "correctAnswer": "Zasoby są wykorzystywane w taki sposób, że nie da się poprawić sytuacji jednej osoby bez pogorszenia sytuacji innej (efektywność Pareto)."
+      },
+      {
+        "question": "Naczelnik Urzedu Celno-Skarbowego prowadzi:",
+        "answers": [
+          "kontrole podatkowa",
+          "czynnosci sprawdzajace",
+          "kontrole celno-skarbowa",
+          "rewizje nadzwyczajna"
+        ],
+        "correctAnswer": "kontrole celno-skarbowa"
+      },
+      {
+        "question": "Kontrola, dla ktorej wlasciwe jest, ze w ciagu 14 dni mozna zlozyc deklaracje pierwotna lub korekte deklaracji.../Ten termin uplywa po 14 dniach od doreczenia upowaznienia do przeprowadzania kontroli",
+        "answers": [
+          "kontroli celno-skarbowej",
+          "x",
+          "x",
+          "x"
+        ],
+        "correctAnswer": "kontroli celno-skarbowej"
+      },
+      {
+        "question": "Co konczy kontrole podatkowa? Czy jest to decyzja?",
+        "answers": [
+          "x",
+          "x",
+          "x",
+          "Nie. Kontrole podatkowa konczy protokol z czynnosci kontrolnych."
+        ],
+        "correctAnswer": "Nie. Kontrole podatkowa konczy protokol z czynnosci kontrolnych."
+      },
+      {
+        "question": "Kontrole celno-skarbowa konczy?",
+        "answers": [
+          "Zawiadomienie o uwzlednieniu deklaracji/korekty deklaracji lub wynik kontroli",
+          "wydanie decyzji",
+          "wydanie postanowienia",
+          "wydanie protokolu"
+        ],
+        "correctAnswer": "Zawiadomienie o uwzlednieniu deklaracji/korekty deklaracji lub wynik kontroli"
+      },
+      {
+        "question": "Jesli urzad celno-skarbowy przeprowadzal konotrle celno-skarbowa i istnieja przeslanki do przeksztalcenia kontroli w postepowanie podatkowe, to jaki okres na to przysluguje naczelnikowi urzedu celno-skarbowego?",
+        "answers": [
+          "24 miesiecy",
+          "6 miesiecy",
+          "3 miesiecy",
+          "1 miesiaca"
+        ],
+        "correctAnswer": "6 miesiecy"
+      },
+      {
+        "question": "Postepowanie podatkowe, po zebraniu materialu dowodowego i wyznaczeniu 7-dniowego okresu na zapoznanie sie z nim zakonczy sie doreczeniem:",
+        "answers": [
+          "protokolu",
+          "adnotacji",
+          "postanowienia",
+          "decyzji w zakresie prawa podatkowego"
+        ],
+        "correctAnswer": "decyzji w zakresie prawa podatkowego"
+      },
+      {
+        "question": "Kto jest organem drugiej instancji?",
+        "answers": [
+          "wojt",
+          "burmistrz",
+          "naczelnik urzedu skarbowego",
+          "samorzadowe kolegium odwolawcze"
+        ],
+        "correctAnswer": "samorzadowe kolegium odwolawcze"
+      },
+      {
+        "question": "Podanie o przywrocenie terminu prawa proceduralnego nalezy wniesc w ciagu:",
+        "answers": [
+          "7 dni",
+          "14 dni",
+          "21 dni",
+          "30 dni"
+        ],
+        "correctAnswer": "7 dni"
+      },
+      {
+        "question": "Decyzja deklaratoryjna to decyzja:",
+        "answers": [
+          "ustalajaca zaleglosc",
+          "rozkladajaca zaleglosc na raty",
+          "procesowa",
+          "okreslajaca zobowiazanie podatkowe"
+        ],
+        "correctAnswer": "okreslajaca zobowiazanie podatkowe"
+      },
+      {
+        "question": "Kurator wyznaczony przez sad na wniosek organu podatkowego jest pelnomocnikiem:",
+        "answers": [
+          "ogolnym",
+          "szczegolnym",
+          "do doreczenia",
+          "pelni role prokurenta"
+        ],
+        "correctAnswer": "ogolnym"
+      },
+      {
+        "question": "W ciagu ilu dni od dnia doreczenia stronie decyzji mozna wniesc odwolanie od tej decyzji?",
+        "answers": [
+          "14 dni",
+          "2 dni",
+          "30 dni",
+          "7 dni"
+        ],
+        "correctAnswer": "14 dni"
+      },
+      {
+        "question": "Organ odwolawczy moze orzec o niedopuszczalnosci odwolania. Orzekajac o niedopuszczalnosci odwolania rozstrzyga w formie:",
+        "answers": [
+          "decyzji",
+          "protokolu",
+          "adnotacji",
+          "postanowienia"
+        ],
+        "correctAnswer": "postanowienia"
+      },
+      {
+        "question": "Kto moze byc nastepca prawnym?",
+        "answers": [
+          "wspolnik spolki jawnej",
+          "dzierzawca nieruchomosci",
+          "rozwiedziony malzonek",
+          "spadkobierca podatnika"
+        ],
+        "correctAnswer": "spadkobierca podatnika"
+      },
+      {
+        "question": "Podatek dochodowy od osob fizycznych. Zobowiazanie podatkowe dotyczy 2020 roku. Termin platnosci to 30.04.2021. Nominalnie przedawnienie zobowiazania podatkowego nastepuje  z uplywem jakiego dnia?",
+        "answers": [
+          "31.12.2026",
+          "31.12.2021",
+          "31.12.2025",
+          "31.12.2031"
+        ],
+        "correctAnswer": "31.12.2026"
+      },
+      {
+        "question": "Podatnik dokonuje zdarzen gospodarczych, ktore nie maja ekonomicznego/gospodarczego uzasadnienia - maja charakter sztuczny. Jedynym celem jest uzyskaniu korzysci podatkowej. Postepowanie w zakresie unikania opodatkowania prowadzi:",
+        "answers": [
+          "naczelnik urzedu skarbowego",
+          "dyrektor izby administacji skarbowej",
+          "samorzadowe kolegium odwolawcze",
+          "szef krajowej administacji skarbowej"
+        ],
+        "correctAnswer": "szef krajowej administacji skarbowej"
+      },
+      {
+        "question": "Osoba prawna jest zobowiazana do obliczenia podatku, pobrania podatku od podatnika i wplacenia podatku na rachunek urzedu skarbowego. Jak nazwiemy ten typ osoby prawnej?",
+        "answers": [
+          "nastepca prawny",
+          "osoba trzecia",
+          "inkasent",
+          "platnik"
+        ],
+        "correctAnswer": "platnik"
+      },
+      {
+        "question": "Istnieja 2 kategorie zdarzen, ktore powoduja przerwanie (nie zawieszenie!) biegu terminu przedawnienia:",
+        "answers": [
+          "ogloszenie upadlosci i wszczecie postepowania egzekucyjnego",
+          "x",
+          "x",
+          "x"
+        ],
+        "correctAnswer": "ogloszenie upadlosci i wszczecie postepowania egzekucyjnego"
+      },
+      {
+        "question": "W sprawie przywrocenie terminu do wniesienia odwolania badz tez w sprawie przywrocenia terminu  do wniesienia zazalenia na postanowienie, postanawia ostatecznie:",
+        "answers": [
+          "sad wojewodzki",
+          "naczelny sad administracyjny",
+          "organ I instancji"
+        ],
+        "correctAnswer": "organ podatkowy wlasciwy do rozpatrzenia odwolania lub zazalenia"
+      }
   ]
+  
