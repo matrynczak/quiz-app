@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "question": "Jaki jest największy kontynent?",
+      "answers": ["Afryka", "Azja", "Europa", "Australia"],
+      "correctAnswer": "Azja"
+    },
+    {
+      "id": 2,
+      "question": "Ile to jest 5 × 6?",
+      "answers": ["11", "30", "56"],
+      "correctAnswer": "30"
+    }
+  ]

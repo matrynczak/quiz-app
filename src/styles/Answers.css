@@ -1,0 +1,31 @@
+.answers {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    align-items: center;
+  }
+  
+  .answer-btn {
+    width: 100%;   
+    max-width: 400px;
+    padding: 10px;
+    font-size: 1rem;
+    cursor: pointer;
+  
+    border: 2px solid #ccc;
+    background: white;
+    transition: 0.2s;
+  }
+  
+  .answer-btn.correct {
+    border-color: green !important;
+    background: #e6ffe6 !important;
+    opacity: 1 !important;
+  }
+  
+  .answer-btn.wrong {
+    border-color: rgb(84, 6, 6) !important;
+    background: #d45252 !important;
+    opacity: 1 !important;
+  }
