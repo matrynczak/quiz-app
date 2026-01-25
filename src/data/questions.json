@@ -587,8 +587,8 @@
         "answers": [
           "kontroli celno-skarbowej",
           "x",
-          "x",
-          "x"
+          "y",
+          "z"
         ],
         "correctAnswer": "kontroli celno-skarbowej"
       },
@@ -596,8 +596,8 @@
         "question": "Co konczy kontrole podatkowa? Czy jest to decyzja?",
         "answers": [
           "x",
-          "x",
-          "x",
+          "y",
+          "z",
           "Nie. Kontrole podatkowa konczy protokol z czynnosci kontrolnych."
         ],
         "correctAnswer": "Nie. Kontrole podatkowa konczy protokol z czynnosci kontrolnych."
@@ -737,8 +737,8 @@
         "answers": [
           "ogloszenie upadlosci i wszczecie postepowania egzekucyjnego",
           "x",
-          "x",
-          "x"
+          "y",
+          "z"
         ],
         "correctAnswer": "ogloszenie upadlosci i wszczecie postepowania egzekucyjnego"
       },
