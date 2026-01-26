@@ -750,6 +750,126 @@
           "organ I instancji"
         ],
         "correctAnswer": "organ podatkowy wlasciwy do rozpatrzenia odwolania lub zazalenia"
+      },
+      {
+        "question": "Który z poniższych podmiotów NIE może prowadzić podatkowej księgi przychodów i rozchodów:",
+        "answers": [
+          "Spółka cywilna",
+          "Spółka jawna osób fizycznych",
+          "Spółka partnerska osób fizycznych",
+          "Spółka akcyjna"
+        ],
+        "correctAnswer": "Spółka akcyjna"
+      },
+      {
+        "question": "Metoda pełna ustalania dochodu (z uwzględnieniem różnic remanentowych) przy prowadzeniu podatkowej księgi przychodów i rozchodów jest stosowana standardowo:",
+        "answers": [
+          "W ciągu roku",
+          "Po zakończeniu roku",
+          "Tylko na żądanie organów kontrolnych",
+          "Według woli podatnika"
+        ],
+        "correctAnswer": "Po zakończeniu roku"
+      },
+      {
+        "question": "Przy prowadzeniu podatkowej księgi przychodów i rozchodów spisem z natury sporządzanym na początek roku nie obejmuje się:",
+        "answers": [
+          "Półproduktów",
+          "Odpadów",
+          "Środków trwałych",
+          "Wyrobów gotowych"
+        ],
+        "correctAnswer": "Środków trwałych"
+      },
+      {
+        "question": "Prowadzenie podatkowej księgi przychodów i rozchodów zgodnie z przepisami rozporządzenia (w sprawie jej prowadzenia) i objaśnieniami do niego oznacza:",
+        "answers": [
+          "Rzetelność podatkowej księgi przychodów i rozchodów",
+          "Wadliwość podatkowej księgi przychodów i rozchodów",
+          "Nierzetelność podatkowej księgi przychodów i rozchodów",
+          "Niewadliwość podatkowej księgi przychodów i rozchodów"
+        ],
+        "correctAnswer": "Niewadliwość podatkowej księgi przychodów i rozchodów"
+      },
+      {
+        "question": "Uproszczona metoda ustalania dochodu w oparciu o podatkową księgę przychodów i rozchodów jest stosowana przez podatników:",
+        "answers": [
+          "W ciągu roku podatkowego",
+          "Po zakończeniu roku podatkowego",
+          "Po sporządzeniu remanentu na koniec miesiąca",
+          "Według woli podatnika"
+        ],
+        "correctAnswer": "W ciągu roku podatkowego"
+      },
+      {
+        "question": "Zgodnie z przepisami rozporządzenia w sprawie prowadzenia podatkowej księgi przychodów i rozchodów dowód wewnętrzny NIE może służyć jako udokumentowanie:",
+        "answers": [
+          "Zakupu od rolnika warzyw przez niego wyprodukowanych",
+          "Zakupu od ludności odpadów poużytkowych",
+          "Zakupu surowców do produkcji",
+          "Wydatków związanych z parkowaniem samochodów"
+        ],
+        "correctAnswer": "Zakupu surowców do produkcji"
+      },
+      {
+        "question": "Koszty transportu zakupionych towarów są ewidencjonowane jako:",
+        "answers": [
+          "Koszty uboczne zakupu",
+          "Wartość zakupionych towarów i materiałów",
+          "Pozostałe wydatki",
+          "Żadne z powyższych"
+        ],
+        "correctAnswer": "Koszty uboczne zakupu"
+      },
+      {
+        "question": "Niezgodność księgi przychodów i rozchodów ze stanem rzeczywistym oznacza jej:",
+        "answers": [
+          "nierzetelność",
+          "niewadliwość",
+          "wadliwość",
+          "rzetelność"
+        ],
+        "correctAnswer": "nierzetelność"
+      },
+      {
+        "question": "Podatnik prowadzący działalność na zasadach ogólnych prowadzi:",
+        "answers": [
+          "podatkową księgę przychodu i rozchodów oraz ewidencje pomocnicze",
+          "ewidencję przychodów dla celów zryczałtowanego podatku dochodowego",
+          "księgi rachunkowe",
+          "inwentarz"
+        ],
+        "correctAnswer": "podatkową księgę przychodu i rozchodów oraz ewidencje pomocnicze"
+      },
+      {
+        "question": "Jakiej kwoty przychodów w danym roku nie może przekroczyć podatnik prowadzący działalność na zasadach ogólnych aby na rok następny nie zostać pozbawiony tej formy opodatkowania:",
+        "answers": [
+          "równowartość 250.000 euro",
+          "równowartość 1.000.000 euro",
+          "równowartość 2.000.000 euro",
+          "równowartość 2.500.000 euro"
+        ],
+        "correctAnswer": "równowartość 2.500.000 euro"
+      },
+      {
+        "question": "Zaliczka na podatek dochodowy w przypadku zasad ogólnych jest wpłacana:",
+        "answers": [
+          "do 5 następnego miesiąca za miesiąc poprzedni",
+          "do 7 następnego miesiąca za miesiąc poprzedni",
+          "do 15 następnego miesiąca za miesiąc poprzedni",
+          "do 20 następnego miesiąca za miesiąc poprzedni"
+        ],
+        "correctAnswer": "do 20 następnego miesiąca za miesiąc poprzedni"
+      },
+      {
+        "question": "Ile wynosi stawka podatku liniowego w przypadku zasad ogólnych:",
+        "answers": [
+          "17%",
+          "19%",
+          "20%",
+          "32%"
+        ],
+        "correctAnswer": "19%"
       }
   ]
   
