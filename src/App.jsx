@@ -14,7 +14,10 @@ function App() {
   const [wrongAnswer, setWrongAnswer] = useState(null);
 
   useEffect(() => {
-    setQuestions(shuffle(questionsData));
+    const questionsWithShuffledAnswers = questionsData.map(q => ({
+      ...q,
+      answers: shuffle(q.answers)}))
+    setQuestions(shuffle(questionsWithShuffledAnswers));
   }, []);
 
   if (!questions.length) {
