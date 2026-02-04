@@ -872,6 +872,51 @@
           "32%"
         ],
         "correctAnswer": "19%"
+      },
+      {
+        "question": "Organem podatkowym w sprawie podatków i opłat lokalnych jest:",
+        "answers": [
+          "skarbnik gminy",
+          "naczelnik urzędu skarbowego",
+          "wójt (burmistrz, prezydent miasta)"
+        ],
+        "correctAnswer": "wójt (burmistrz, prezydent miasta)"
+      },
+      {
+        "question": "Obowiązek podatkowy w podatku od nieruchomości powstaje:",
+        "answers": [
+          "od pierwszego dnia miesiąca, w którym zaistniały okoliczności uzasadniające powstanie obowiązku podatkowego",
+          "od pierwszego dnia następnego miesiąca, w którym zaistniały okoliczności uzasadniające powstanie obowiązku podatkowego",
+          "od dnia, w którym zaistniały okoliczności uzasadniające powstanie obowiązku podatkowego"
+        ],
+        "correctAnswer": "od pierwszego dnia następnego miesiąca, w którym zaistniały okoliczności uzasadniające powstanie obowiązku podatkowego"
+      },
+      {
+        "question": "Opodatkowaniu podatkiem od nieruchomości nie podlegają:",
+        "answers": [
+          "jeziora oraz grunty zajęte na zbiorniki wodne retencyjne",
+          "grunty pod stawami",
+          "grunty zajęte na zbiorniki wodne retencyjne i elektrowni wodnych"
+        ],
+        "correctAnswer": "grunty pod stawami"
+      },
+      {
+        "question": "Podatkowi od czynności cywilno-prawnych podlega:",
+        "answers": [
+          "umowa darowizny, w części dotyczącej przejęcia przez obdarowanego długów i ciężarów, albo zobowiązań darczyńcy",
+          "spłata zobowiązań w wykonaniu działalności gospodarczej",
+          "umowa sprzedaży lokali mieszkalnych, których stroną jest Wojskowa Agencja Mieszkaniowa"
+        ],
+        "correctAnswer": "umowa darowizny, w części dotyczącej przejęcia przez obdarowanego długów i ciężarów, albo zobowiązań darczyńcy"
+      },
+      {
+        "question": "Z podatku leśnego zwalnia się:",
+        "answers": [
+          "lasy z drzewostanem do 40 lat",
+          "rezerwaty przyrody",
+          "asy ochronne"
+        ],
+        "correctAnswer": "lasy z drzewostanem do 40 lat"
       }
   ]
   
