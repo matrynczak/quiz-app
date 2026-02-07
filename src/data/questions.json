@@ -917,6 +917,106 @@
           "asy ochronne"
         ],
         "correctAnswer": "lasy z drzewostanem do 40 lat"
+      },
+      {
+        "question": "Osoba fizyczna prowadząca jednoosobowo działalność gospodarczą wpisywana jest do",
+        "answers": [
+          "Ewidencji Działalności Gospodarczej",
+          "Centralnej Ewidencji i Informacji o Działalności Gospodarczej",
+          "Krajowego Rejestru Sądowego",
+          "Ewidencji Ludności"
+        ],
+        "correctAnswer": "Centralnej Ewidencji i Informacji o Działalności Gospodarczej"
+      },
+      {
+        "question": "W ramach spółki cywilnej jej wspólnicy ponoszą odpowiedzialność:",
+        "answers": [
+          "indywidualną",
+          "subsydiarną",
+          "solidarną",
+          "ograniczoną"
+        ],
+        "correctAnswer": "solidarną"
+      },
+      {
+        "question": "Spółka jawna nabywa zdolność prawną z chwilą:",
+        "answers": [
+          "zawarcia umowy",
+          "złożenia wniosku o wpis do KRS",
+          "wpisu do KRS",
+          "dokonania wkładów na poczet spółki"
+        ],
+        "correctAnswer": "wpisu do KRS"
+      },
+      {
+        "question": "W ramach spółki partnerskiej można wykonywać zawód:",
+        "answers": [
+          "fotografa",
+          "malarza",
+          "architekta",
+          "producenta filmowego"
+        ],
+        "correctAnswer": "architekta"
+      },
+      {
+        "question": "Do wysokości sumy komandytowej odpowiada:",
+        "answers": [
+          "akcjonariusz",
+          "komandytariusz",
+          "komplementariusz",
+          "spółka"
+        ],
+        "correctAnswer": "komandytariusz"
+      },
+      {
+        "question": "Minimalny wkład do spółki komandytowo – akcyjnej wynosi:",
+        "answers": [
+          "50 000 PLN",
+          "100 000 PLN",
+          "500 000 PLN",
+          "1 000 000 PLN"
+        ],
+        "correctAnswer": "50 000 PLN"
+      },
+      {
+        "question": "Wskaż organ spółki z ograniczoną odpowiedzialnością:",
+        "answers": [
+          "Dyrektor",
+          "Zgromadzenie udziałowców",
+          "Komitet zarządczy",
+          "Rada dyrektorów"
+        ],
+        "correctAnswer": "Zgromadzenie udziałowców"
+      },
+      {
+        "question": "Wskaż tryb zawierania umów w rozumieniu kodeksu cywilnego:",
+        "answers": [
+          "Aukcja",
+          "Licytacja",
+          "Zakontraktowanie",
+          "Ugoda"
+        ],
+        "correctAnswer": "Aukcja"
+      },
+      {
+        "question": "Rękojmia na budynki z zasady wynosi lat:",
+        "answers": [
+          "2",
+          "5",
+          "10",
+          "3"
+        ],
+        "correctAnswer": "5"
+      },
+      {
+        "question": "Umowa najmu samochodu osobowego",
+        "answers": [
+          "nie wymaga zachowania formy szczególnej",
+          "powinna być zawarta na piśmie dla celów dowodowych",
+          "powinna być zawarta na piśmie pod rygorem nieważności",
+          "powinna być zawarta na piśmie z datą pewną"
+        ],
+        "correctAnswer": "nie wymaga zachowania formy szczególnej"
       }
   ]
   
